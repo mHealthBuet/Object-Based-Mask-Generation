@@ -40,9 +40,9 @@ You can follow [Mask_RCNN_Dependencies Installation](https://github.com/tensorfl
 Python 3.4, TensorFlow 1.3,anaconda,opencv and other common packages.
 
 ## Related Works
-* You can see related works and projects on which we worked from [VIP Cup 2019](https://signalprocessingsociety.org/get-involved/video-image-processing-cup) where we placed 2nd Runners Up.Our team 'BUET Synapticans',we are undergrad students of Bangladesh University of Engineering and University.
+* You can see related works and projects on which we worked from [VIP Cup 2019](https://signalprocessingsociety.org/get-involved/video-image-processing-cup) where we placed 2nd Runners Up.Our team 'BUET Synapticans',we are undergrad students of Bangladesh University of Engineering and Technology.
 
 ## Acknowledgement 
-Tons of code was downloaded from theirs repo
+Tons of code was downloaded from this repo
 https://github.com/tensorflow/models
     
